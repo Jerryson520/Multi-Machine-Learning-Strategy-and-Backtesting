@@ -1,6 +1,7 @@
+import pandas as pd
 from alpaca.data.requests import StockBarsRequest
 from alpaca.data.timeframe import TimeFrame
-import pandas as pd
+
 
 ## Load from Alpaca
 class DataLoader:
