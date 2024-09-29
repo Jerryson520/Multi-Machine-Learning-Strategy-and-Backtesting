@@ -8,7 +8,6 @@ from portfolio.closeprice import MarketOnClosePortfolio
 from portfolio.openprice import MarketOnOpenPortfolio
 from data_loader import DataLoader
 
-
 if __name__ == "__main__":
     # symbol = "AMD"
     symbol = "AAPL"
